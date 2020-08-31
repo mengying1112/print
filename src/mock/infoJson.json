@@ -1,0 +1,47 @@
+{
+    "result": "success",
+    "infoLst": [
+        {
+            "fileName": "式样书", 
+            "fileSize": "156kb",
+            "color": "黑白",
+            "scanTime": "2020-04-15", 
+            "pages": "98"
+        },
+        {
+            "fileName": "申请表", 
+            "fileSize": "15kb",
+            "color": "黑白",
+            "scanTime": "2020-04-16", 
+            "pages": "1"
+        },
+        {
+            "fileName": "式样书", 
+            "fileSize": "156kb",
+            "color": "黑白",
+            "scanTime": "2020-05-15", 
+            "pages": "98"
+        },
+        {
+            "fileName": "员工手册", 
+            "fileSize": "45kb",
+            "color": "黑白",
+            "scanTime": "2020-04-15", 
+            "pages": "23"
+        },
+        {
+            "fileName": "员工手册", 
+            "fileSize": "45kb",
+            "color": "黑白",
+            "scanTime": "2020-04-12", 
+            "pages": "23"
+        },
+        {
+            "fileName": "员工手册", 
+            "fileSize": "45kb",
+            "color": "黑白",
+            "scanTime": "2020-04-25", 
+            "pages": "23"
+        }
+    ]
+}
